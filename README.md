@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=manigkrish&label=Profile%20views&color=0e75b6&style=flat" alt="manigkrish" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Manikandan;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manikandan;" />
 </h1>
 
 <h3 align="center" style="color: red;"> 🔭 Software Engineer | Building Scalable & Efficient Web Application 🔭</h3>
