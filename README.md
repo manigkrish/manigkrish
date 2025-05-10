@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- 🎓 Pursuing a **Master's in Cybersecurity** at the University of Central Missouri, expected to graduate in May 2025.
+- 🎓 Pursuing a **Master's in Cybersecurity** at the University of Central Missouri, graduated in May 2025.
 
 - 💻 Passionate about Data, building simple solutions for complex data problems..
 
