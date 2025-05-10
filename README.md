@@ -11,9 +11,9 @@
 
 - 🎓 Pursuing a **Master's in Cybersecurity** at the University of Central Missouri, expected to graduate in May 2025.
 
-- 💻 Passionate about full-stack development, creating dynamic end-to-end web solutions.
+- 💻 Passionate about Data, building simple solutions for complex data problems..
 
-- 🌱 Currently enhancing my skills in **GoLang, Distributed Systems, TypeScript and Angular**.
+- 🌱 Currently enhancing my skills in **GoLang, Distributed Systems, and Machine Learning**.
 
 - 📫 You can contact me at **manikandan.gkrish@gmail.com**
 
