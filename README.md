@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- 🌱 ’m currently learning **Software Design Patterns, System Design, DSA, GoLang**
+- 🌱 I’m currently learning **Software Design Patterns, System Design, DSA, GoLang**
   
 - 👯 I’m looking to collaborate on Open Source Projects
 
