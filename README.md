@@ -18,6 +18,8 @@
 - 💬 Ask me about Java, Python, Spring Boot, REST APIs, PostgreSQL, OracleDB, Kafka, Amazon Web Services (AWS)
 
 - 📫 How to reach me **mailto:manikandan.gobalkrish@gmail.com**
+
+- ✍️ Read my Blogs at **https://medium.com/@manigkrish**
   
 - ⚡ Fun fact I think I am versatile
 
