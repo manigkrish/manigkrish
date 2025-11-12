@@ -13,15 +13,15 @@
   
 - 👯 I’m looking to collaborate on Open Source Projects
 
-- 👨‍💻 All of my projects are available at https://manigkrish.com/
+- 👨‍💻 All of my projects are available at **https://manigkrish.com/**
 
-- 📫 How to reach me **manikandan.gobalkrish@gmail.com**
+- 📫 How to reach me **mailto:manikandan.gobalkrish@gmail.com**
   
 - ⚡ Fun fact I think I am versatile
 
 <br/>
 
-<div align="center"> 
+<div align="left"> 
     <h3 align="left">Connect with me:</h3>
   <a href="mailto:manikandan.gobalkrish@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -36,7 +36,7 @@
      <img src="https://img.shields.io/badge/leetcode-181717?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
   </a>
 </div>
-<br>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 **Skills**
