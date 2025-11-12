@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at **https://manigkrish.com/**
 
+- 💬 Ask me about Java, Python, Spring Boot, REST APIs, PostgreSQL, OracleDB, Kafka, Amazon Web Services (AWS)
+
 - 📫 How to reach me **mailto:manikandan.gobalkrish@gmail.com**
   
 - ⚡ Fun fact I think I am versatile
-
-<br/>
 
 <div align="left"> 
     <h3 align="left">Connect with me:</h3>
