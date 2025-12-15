@@ -20,11 +20,9 @@
 - 📫 How to reach me **mailto:manikandan.gobalkrish@gmail.com**
 
 - ✍️ Read my Blogs at **https://medium.com/@manigkrish**
-  
-- ⚡ Fun fact I think I am versatile
 
 <div align="left"> 
-    <h3 align="left">Connect with me:</h3>
+    <h3 align="left">🌐 Connect with me:</h3>
   <a href="mailto:manikandan.gobalkrish@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
