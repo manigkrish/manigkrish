@@ -10,8 +10,6 @@
 ### About Me:
 
 - 🌱 I’m currently learning **Software Design Patterns, System Design, DSA, GoLang**
-  
-- 👯 I’m looking to collaborate on Open Source Projects
 
 - 👨‍💻 All of my projects are available at **https://manigkrish.com/**
 
