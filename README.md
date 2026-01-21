@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- 🌱 I’m currently learning **Software Design Patterns, System Design, DSA, GoLang**
+- 🌱 I’m currently learning **Software Design Patterns, System Design, LLM**
 
 - 👨‍💻 All of my projects are available at **https://manigkrish.com/**
 
