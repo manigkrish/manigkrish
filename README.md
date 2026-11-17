@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manikandan;" />
 </h1>
 
-<h3 align="center" style="color: red;"> 🔭 Backend Software Engineer | Building Scalable Systems, Driving Innovation & Learning Every Day 🔭</h3>
+<h3 align="center" style="color: red;"> 🔭 Software Engineer | Building Scalable Systems, Driving Innovation & Learning Every Day 🔭</h3>
 
 
 ### About Me:
@@ -27,7 +27,7 @@
    <a href="https://manigkrish.medium.com/" target="_blank">
   <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" />
    </a>
-  <a href="https://www.linkedin.com/in/manigkrish/" target="_blank">
+  <a href="https://www.linkedin.com/in/manigobalk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://leetcode.com/u/manikrishg/" target="_blank">
