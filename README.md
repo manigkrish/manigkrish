@@ -15,13 +15,13 @@
 
 - 💬 Ask me about Java, Python, Spring Boot, REST APIs, PostgreSQL, OracleDB, Kafka, Amazon Web Services (AWS)
 
-- 📫 How to reach me **mailto:manikandan.gobalkrish@gmail.com**
+- 📫 How to reach me **mailto:manigobalk@gmail.com**
 
 - ✍️ Read my Blogs at **https://medium.com/@manigkrish**
 
 <div align="left"> 
     <h3 align="left">🌐 Connect with me:</h3>
-  <a href="mailto:manikandan.gobalkrish@gmail.com">
+  <a href="mailto:manigobalk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
    <a href="https://manigkrish.medium.com/" target="_blank">
